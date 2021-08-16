@@ -22,7 +22,9 @@
              width: 40px;
          }
          .ipad{
-                  margin-left: 150px;}
+                  margin-left: 150px;
+                  align-items: center;                  
+}
          .image{
            display: flex;
            align-items: center;
