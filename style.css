@@ -21,7 +21,8 @@
              height :40px;
              width: 40px;
          }
-
+         .ipad{
+                  padding-left: 50px;}
          .image{
            display: flex;
            align-items: center;
